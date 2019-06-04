@@ -1,0 +1,9 @@
+Libraries/dependencies needed:
+flask
+flask_restful
+csv
+requests
+hashlib (for hashing)
+numpy
+sys
+json
